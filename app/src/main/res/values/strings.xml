@@ -1,9 +1,15 @@
 <resources>
     <string name="app_name">Mobile programming</string>
-        <string name="app_title">LifeRPG</string>
-        <string name="quests_title">Today\'s Quests</string>
-        <string name="achievements_title">Achievements</string>
-        <string name="stats_title">Quick Stats</string>
-        <string name="quests_completed">Quests Completed</string>
-        <string name="total_xp">Total XP</string>
+    <string name="app_title">LifeRPG</string>
+    <string name="quests_title">Today\'s Quests</string>
+    <string name="achievements_title">Achievements</string>
+    <string name="stats_title">Quick Stats</string>
+    <string name="quests_completed">Quests Completed</string>
+    <string name="total_xp">Total XP</string>
+    <string name="profile_stats">Profile Stats</string>
+    <string name="additional">Additional</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About</string>
+    <string name="settings">Settings</string>
+    <string name="habits">Habits</string>
 </resources>
